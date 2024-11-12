@@ -1,0 +1,25 @@
+.banner {
+  height: 600px;
+  width: auto;
+}
+
+.container {
+  width: 800px;
+  height: 200px;
+  color: white;
+  margin: 0 auto;
+  padding: 200px;
+}
+
+.container > .text-banner {
+  color: #A6AEBF;
+  margin-bottom: 30px;
+  text-align: start;
+}
+
+.container > a {
+  padding: 15px 35px;
+  background-color: #1EDD88;
+  color: white;
+  border-radius: 40px;
+}
